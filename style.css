@@ -1,0 +1,45 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+:root {
+
+ --bg-color:#16423C;
+    --primary-color:#C4DAD2;
+    --secudary-color:#6A9C89;
+    --font: "Edu AU VIC WA NT Guides", cursive;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+   
+body{
+    background-color:
+}
+
+
+
+/* código omitido */
+
+h1 {
+    font-size: 2rem;
+    color: var(--bg-color);
+     font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* código omitido */
+
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1px;
+}
+
+/* código omitido */
